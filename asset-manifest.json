@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/multidtep/static/css/main.e6310156.css",
+    "main.js": "/multidtep/static/js/main.78b92bb4.js",
+    "index.html": "/multidtep/index.html",
+    "main.e6310156.css.map": "/multidtep/static/css/main.e6310156.css.map",
+    "main.78b92bb4.js.map": "/multidtep/static/js/main.78b92bb4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6310156.css",
+    "static/js/main.78b92bb4.js"
+  ]
+}
