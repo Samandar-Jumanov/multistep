@@ -1,0 +1,53 @@
+*
+{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.App
+{
+  width: 100vw;
+  height: 100vh;
+  color: black;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  /* background-position: center; */
+  object-fit: cover;
+  background-blend-mode: soft-light;
+  background-color: rgba(0,0, 0, .5 );
+}
+.Container 
+{
+  width: 400px;
+  height: 450px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: rgb(126, 178, 236);
+  margin-top: 20px;
+  box-shadow: 0 0 10px black;
+}
+button 
+{
+  width: 300px;
+  height: 40px;
+  border: none;
+  background-color: rgb(9, 85, 226);
+  color: black;
+  cursor: pointer;
+  margin-bottom: 10px;
+}
+.box 
+{
+    width:300px;
+    height: 45px;
+    outline: none;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    padding: 10px;
+}
